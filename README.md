@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JuliaStarstriker
 - 👀 I’m interested in Gaming, Cosplay, Anime and nature.
-- 🌱 I’m currently learning Game development. I am on interchip right now developing an app for learning young kids.
+- 🌱 I’m currently learning Game development. I am studying some courses in c#, C and 3d modeling
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
