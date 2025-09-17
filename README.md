@@ -2,7 +2,7 @@
 - :briefcase: Working part-time as an annotator at Axis in Sweden
 - 🌱 Focused on maximizing game development skills after completing the Game Creator Programmer program at Yrgo in Gothenburg
 - :books:   Currently taking additional courses in C# and web development
-- 👀  Interested in game development, gaming, cosplay, anime, and nature
+- 👀  Interested in game development,  Dungeons and dragon, gaming, cosplay and nature
 - :video_game: Proficient with game engines and libraries including Unity, Unreal Engine, and SDL2
 - :notebook_with_decorative_cover:  Programming languages proficient in: C# (3 years), C, C++, Python (2 years), and HTML
 
